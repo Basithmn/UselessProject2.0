@@ -3,12 +3,12 @@ import pyautogui
 import random
 import sys
 
-# Prevent pyautogui from raising an exception if you drag to a corner
+
 pyautogui.FAILSAFE = False
 
 CELL_SIZE = 40
 BORDER = 5
-FPS = 60  # Increased frame rate for better motion smoothness
+FPS = 60  
 
 MAZE_COLOR = (200, 200, 200)
 WALL_COLOR = (0, 0, 0)
@@ -206,4 +206,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
