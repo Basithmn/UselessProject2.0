@@ -1,40 +1,34 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Snail Maze Escape 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Incognito
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Abdul Basith M N - RIT Kottayam
+- Member 2: Geethul Krishna G D - RIT Kottayam
 
 ### Project Description
-[2-3 lines about what your project does]
+This playful maze game uses Pygame to render a grid‑based labyrinth. You guide a snail emoji 🐌 cursor via the mouse (telekinesis not required), trying to reach the finish without clipping the walls. Fail, and PyAutoGUI audibly (but imperceptibly) snaps you back to start.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Speed‑runners want a snail‑controlled maze where walled pathways feel instant and ominous… because moving slowly at high stakes is ironically dramatic.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Enter Snail Maze Escape — a full‑screen maze generator with 🐌 emoji cursor and wall‑penalty resets. Touch a wall and you instantly teleport back to the start. It’s gratuitously snail-paced and spectacularly unnecessary.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+- Languages: Python 3.13.3
+- Frameworks: Pygame (2.0+), PyAutoGUI  
+- Libraries: `random`, `sys`  
+- Tools: Full‑screen mouse interactions
+  
 ### Implementation
 For Software:
 # Installation
@@ -57,10 +51,18 @@ For Software:
 *Add caption explaining what this shows*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
++----------------------+  
+| generate_maze()      |  
+|  ↳ dfs + carve dirs  |  
++----------+-----------+  
+           | maze array  
++----------------------+      +---------------+     +------------------+  
+| main event loop      |      | input handler |     | rendering logic  |  
+|  ↳ get mouse pos     | ↔–→   "🐌" snail      |     paint cells/🐌/flag  |  
+|  ↳ collision sample_line() |   reset via    |     shrink wrap path         |  
++----------------------+      | prev ← start  |     +------------------+  
+                              +---------------+  
 
-For Hardware:
 
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)
@@ -88,9 +90,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Abdul Basith M N: UI / interaction & PyAutoGUI integration
+- Geethul Krishna G D: Maze‑generation core & collision detection
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
