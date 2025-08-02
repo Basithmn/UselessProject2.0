@@ -43,14 +43,14 @@ python main.py
 For Software:
 
 # Screenshots 
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/d300f1f569c8e811f54124d76c31ad87e21f554b/Screenshot%201.png"/>
 Title screen + randomly generated maze (entry point).
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/d300f1f569c8e811f54124d76c31ad87e21f554b/Screenshot%201.png"/>
 
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/d300f1f569c8e811f54124d76c31ad87e21f554b/Screenshot%202.png" />
 Reached the 🏁 flag—“🎉 Finished” popup visible.
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/d300f1f569c8e811f54124d76c31ad87e21f554b/Screenshot%202.png" />
 
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/349371ae132496300de7f9ba9c90d248459acab0/Screenshot%203.png" />
 Halfway through—seen the snail trace (green), walls (black).
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/349371ae132496300de7f9ba9c90d248459acab0/Screenshot%203.png" />
 
 ### Project Demo
 # Video
