@@ -44,13 +44,13 @@ For Software:
 
 # Screenshots (Add at least 3)
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/d300f1f569c8e811f54124d76c31ad87e21f554b/Screenshot%201.png"/>
-*Add caption explaining what this shows*
+Title screen + randomly generated maze (entry point).
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/d300f1f569c8e811f54124d76c31ad87e21f554b/Screenshot%202.png" />
-*Add caption explaining what this shows*
+Reached the 🏁 flag—“🎉 Finished” popup visible.
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/349371ae132496300de7f9ba9c90d248459acab0/Screenshot%203.png" />
-*Add caption explaining what this shows*
+Halfway through—seen the snail trace (green), walls (black).
 
 # Diagrams
 +----------------------+  
@@ -68,7 +68,7 @@ For Software:
 ### Project Demo
 # Video
 https://github.com/Basithmn/UselessProject2.0/blob/349371ae132496300de7f9ba9c90d248459acab0/DEMO.mp4
-*Explain what the video demonstrates*
+Demonstrates full maze run: wall-touch reset, final countdown, and close sequence.
 
 # Additional Demos
 [Add any extra demo materials/links]
