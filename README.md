@@ -43,7 +43,7 @@ python main.py
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="3188" height="1202" alt="frame (3)" src="[https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7](https://github.com/Basithmn/UselessProject2.0/blob/3cccf3e50a3c4309b52c071f7c4767036f0999b2/Screenshot%201.png)" />
+<img width="3188" height="1202" alt="frame (3)" src="Screenshot 1.png"/>
 *Add caption explaining what this shows*
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
