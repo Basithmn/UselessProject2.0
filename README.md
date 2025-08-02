@@ -13,13 +13,13 @@
 - Member 2: Geethul Krishna G D - RIT Kottayam
 
 ### Project Description
-This playful maze game uses Pygame to render a grid‑based labyrinth. You guide a snail emoji 🐌 cursor via the mouse (telekinesis not required), trying to reach the finish without clipping the walls. Fail, and PyAutoGUI audibly (but imperceptibly) snaps you back to start.
+This fullscreen Pygame maze game uses PyAutoGUI to tug your snail emoji 🐌 cursor back to the start upon any wall collision. Navigate the labyrinth by mouse, reach the 🏁 finish flag, and trigger the 10‑second exit countdown. Purposefully low‑speed, high drama.
 
 ### The Problem (that doesn't exist)
-Speed‑runners want a snail‑controlled maze where walled pathways feel instant and ominous… because moving slowly at high stakes is ironically dramatic.
+Maze games reward strategy—too useful. Here, each micro‑mistake results in immediate reset. It’s a gamified metaphor for snail-paced frustration.
 
 ### The Solution (that nobody asked for)
-Enter Snail Maze Escape — a full‑screen maze generator with 🐌 emoji cursor and wall‑penalty resets. Touch a wall and you instantly teleport back to the start. It’s gratuitously snail-paced and spectacularly unnecessary.
+A snail maze with snappy reset punishment—reckless collision detection via line‑sampling, full‑screen rendering, emoji-driven UI, and countdown closure. Built under time constraints, with zero concern for practical use.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -32,10 +32,12 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/your‑username/useless‑snail‑maze
+cd useless‑snail‑maze
+pip install pygame pyautogui
 
 # Run
-[commands]
+python main.py
 
 ### Project Documentation
 For Software:
@@ -62,24 +64,6 @@ For Software:
 |  ↳ collision sample_line() |   reset via    |     shrink wrap path         |  
 +----------------------+      | prev ← start  |     +------------------+  
                               +---------------+  
-
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
