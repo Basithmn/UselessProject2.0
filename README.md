@@ -49,7 +49,7 @@ For Software:
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/d300f1f569c8e811f54124d76c31ad87e21f554b/Screenshot%202.png" />
 *Add caption explaining what this shows*
 
-<img width="3188" height="1202" alt="frame (3)" src="Screenshot 3.png" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/349371ae132496300de7f9ba9c90d248459acab0/Screenshot%203.png" />
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -67,7 +67,7 @@ For Software:
 
 ### Project Demo
 # Video
-DEMO.mp4
+https://github.com/Basithmn/UselessProject2.0/blob/349371ae132496300de7f9ba9c90d248459acab0/DEMO.mp4
 *Explain what the video demonstrates*
 
 # Additional Demos
