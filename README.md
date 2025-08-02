@@ -43,10 +43,10 @@ python main.py
 For Software:
 
 # Screenshots (Add at least 3)
-<img width="3188" height="1202" alt="frame (3)" src="Screenshot 1.png"/>
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/d300f1f569c8e811f54124d76c31ad87e21f554b/Screenshot%201.png"/>
 *Add caption explaining what this shows*
 
-<img width="3188" height="1202" alt="frame (3)" src="Screenshot 2.png" />
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/d300f1f569c8e811f54124d76c31ad87e21f554b/Screenshot%202.png" />
 *Add caption explaining what this shows*
 
 <img width="3188" height="1202" alt="frame (3)" src="Screenshot 3.png" />
@@ -67,7 +67,7 @@ For Software:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+DEMO.mp4
 *Explain what the video demonstrates*
 
 # Additional Demos
