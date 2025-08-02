@@ -13,7 +13,7 @@
 - Member 2: Geethul Krishna G D - RIT Kottayam
 
 ### Project Description
-This fullscreen Pygame maze game uses PyAutoGUI to tug your snail emoji 🐌 cursor back to the start upon any wall collision. Navigate the labyrinth by mouse, reach the 🏁 finish flag, and trigger the 10‑second exit countdown. Purposefully low‑speed, high drama.
+This fullscreen Pygame maze game uses PyAutoGUI to tug your snail emoji 🐌 cursor back to the start upon any wall collision. Navigate the labyrinth by mouse, reach the 🏁 finish flag, and trigger the 10‑second exit countdown. Purposefully low‑speed, high drama. The mouse pointer will be trapped in the game; we need to finish the game to escape.
 
 ### The Problem (that doesn't exist)
 Maze games reward strategy—too useful. Here, each micro‑mistake results in immediate reset. It’s a gamified metaphor for snail-paced frustration.
