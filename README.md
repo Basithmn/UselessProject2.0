@@ -57,8 +57,6 @@ Halfway through—seen the snail trace (green), walls (black).
 https://github.com/Basithmn/UselessProject2.0/blob/349371ae132496300de7f9ba9c90d248459acab0/DEMO.mp4
 Demonstrates full maze run: wall-touch reset, final countdown, and close sequence.
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 - Abdul Basith M N: UI / interaction & PyAutoGUI integration
