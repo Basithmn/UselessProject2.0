@@ -42,7 +42,7 @@ python main.py
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/d300f1f569c8e811f54124d76c31ad87e21f554b/Screenshot%201.png"/>
 Title screen + randomly generated maze (entry point).
 
@@ -51,19 +51,6 @@ Reached the 🏁 flag—“🎉 Finished” popup visible.
 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/Basithmn/UselessProject2.0/blob/349371ae132496300de7f9ba9c90d248459acab0/Screenshot%203.png" />
 Halfway through—seen the snail trace (green), walls (black).
-
-# Diagrams
-+----------------------+  
-| generate_maze()      |  
-|  ↳ dfs + carve dirs  |  
-+----------+-----------+  
-           | maze array  
-+----------------------+      +---------------+     +------------------+  
-| main event loop      |      | input handler |     | rendering logic  |  
-|  ↳ get mouse pos     | ↔–→   "🐌" snail      |     paint cells/🐌/flag  |  
-|  ↳ collision sample_line() |   reset via    |     shrink wrap path         |  
-+----------------------+      | prev ← start  |     +------------------+  
-                              +---------------+  
 
 ### Project Demo
 # Video
